@@ -1,5 +1,5 @@
 FROM alpine:edge
-MAINTAINER tim@haak.co
+MAINTAINER neokama@localhost
 
 ENV LANG='en_US.UTF-8' \
     LANGUAGE='en_US.UTF-8' \
